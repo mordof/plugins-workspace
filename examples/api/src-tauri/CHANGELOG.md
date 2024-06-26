@@ -1,5 +1,16 @@
 # Changelog
 
+## \[2.0.0-beta.12]
+
+### Dependencies
+
+- Upgraded to `fs@2.0.0-beta.10`
+- Upgraded to `updater@2.0.0-beta.9`
+- Upgraded to `notification@2.0.0-beta.9`
+- Upgraded to `os@2.0.0-beta.7`
+- Upgraded to `dialog@2.0.0-beta.10`
+- Upgraded to `http@2.0.0-beta.11`
+
 ## \[2.0.0-beta.11]
 
 ### Dependencies

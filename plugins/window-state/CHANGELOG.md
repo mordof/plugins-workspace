@@ -1,5 +1,9 @@
 # Changelog
 
+## \[2.0.0-beta.10]
+
+- [`f1372adc`](https://github.com/tauri-apps/plugins-workspace/commit/f1372adc9d4dc5c0ed16f7281da0d45e0d8765da) ([#1497](https://github.com/tauri-apps/plugins-workspace/pull/1497) by [@ferreira-tb](https://github.com/tauri-apps/plugins-workspace/../../ferreira-tb)) Add `Builder::map_label` option to transform the window label when saving the window state, this could be used to group different windows to use the same state.
+
 ## \[2.0.0-beta.6]
 
 - [`9013854f`](https://github.com/tauri-apps/plugins-workspace/commit/9013854f42a49a230b9dbb9d02774765528a923f)([#1382](https://github.com/tauri-apps/plugins-workspace/pull/1382)) Update to tauri beta.22.

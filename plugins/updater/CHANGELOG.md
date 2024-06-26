@@ -1,5 +1,9 @@
 # Changelog
 
+## \[2.0.0-beta.9]
+
+- [`29751ee9`](https://github.com/tauri-apps/plugins-workspace/commit/29751ee939fc8d26df07e4da3ad7f5c2aa0926ba) ([#1495](https://github.com/tauri-apps/plugins-workspace/pull/1495) by [@FabianLars](https://github.com/tauri-apps/plugins-workspace/../../FabianLars)) On Windows, escape the path to the downloaded msi updater to fix an issue causing the update to fail when the `productName` contained spaces.
+
 ## \[2.0.0-beta.8]
 
 - [`bf29a72b`](https://github.com/tauri-apps/plugins-workspace/commit/bf29a72baaff15214a21989df23081eee84e3b8b) ([#1454](https://github.com/tauri-apps/plugins-workspace/pull/1454) by [@amrbashir](https://github.com/tauri-apps/plugins-workspace/../../amrbashir)) Fix regression in updater plugin failing to update using `.msi` installer.

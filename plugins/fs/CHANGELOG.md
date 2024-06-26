@@ -1,5 +1,9 @@
 # Changelog
 
+## \[2.0.0-beta.10]
+
+- [`1146f068`](https://github.com/tauri-apps/plugins-workspace/commit/1146f068e1a2ce4244982532c621270c022bcdff) ([#1477](https://github.com/tauri-apps/plugins-workspace/pull/1477) by [@FabianLars](https://github.com/tauri-apps/plugins-workspace/../../FabianLars)) Fixes an issue that caused the app to freeze when the `fs` plugin's read/write apis were used on large files.
+
 ## \[2.0.0-beta.5]
 
 - [`9013854f`](https://github.com/tauri-apps/plugins-workspace/commit/9013854f42a49a230b9dbb9d02774765528a923f)([#1382](https://github.com/tauri-apps/plugins-workspace/pull/1382)) Update to tauri beta.22.

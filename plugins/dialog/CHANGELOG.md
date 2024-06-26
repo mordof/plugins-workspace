@@ -1,5 +1,11 @@
 # Changelog
 
+## \[2.0.0-beta.10]
+
+### Dependencies
+
+- Upgraded to `fs@2.0.0-beta.10`
+
 ## \[2.0.0-beta.5]
 
 - [`9013854f`](https://github.com/tauri-apps/plugins-workspace/commit/9013854f42a49a230b9dbb9d02774765528a923f)([#1382](https://github.com/tauri-apps/plugins-workspace/pull/1382)) Update to tauri beta.22.
@@ -153,5 +159,5 @@
   pull/371)) First v2 alpha release!
   lpha release!
   pull/371)) First v2 alpha release!
-lpha release!
+  lpha release!
   pull/371)) First v2 alpha release!
